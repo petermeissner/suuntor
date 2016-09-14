@@ -4,6 +4,8 @@
 library(XML)
 library(magrittr)
 library(jsonlite)
+library(rChartsCalmap) # devtools::install.packages('htmlwidgets'); devtools::install_github("ramnathv/rChartsCalmap");
+library(hellno)
 
 
 
@@ -40,7 +42,43 @@ save(data_df_all, file="suunto_data.Rdata")
 writeLines(toJSON(data_df_all), "~/Dropbox/petermeissner.github.io/data/suunto_data.json")
 
 
+# doing calender
+calheatmap(
+  x = "date",
+  y = "Km",
+  data = data.frame(
+    Km   = as.numeric(data_df_all$Distance)/1000,
+    date = substring(data_df_all$DateTime, 1, 10)
+  ),
+  domain = 'month',
+  legend = seq(0, 20, 5),
+  start = as.character(Sys.Date()-330),
+  itemName = 'Km'
+)
+
+
 # updating homepage
 wd <- getwd()
 source("C:/Users/peter/Dropbox/petermeissner.github.io/_make_pages.Rexec")
 setwd(wd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
