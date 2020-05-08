@@ -6,6 +6,7 @@ library(data.table)
 library(dplyr)
 library(jsonlite)
 library(stringr)
+library(lubridate)
 
 
 # functions
@@ -81,11 +82,10 @@ df <-
         floor(duration_min / distance),
         ":",
         str_pad(ceiling(((duration_min/distance) %% 1) * 60), width = 2, side = "left", pad = "0")
-      )
-  ) %>%
-  arrange(
-    -as.integer(date)
-  ) %>%
+      ),
+    year = year(date),
+    week = week(date)
+  )  %>%
   select(
     date,
     distance,
@@ -93,7 +93,19 @@ df <-
     kmh,
     mkm,
     kj,
-    kcal
+    kcal,
+    year,
+    week
+  ) %>%
+  group_by(year, week) %>%
+  mutate(
+    dist_weekly = sum(distance),
+    kcal_weekly = sum(kcal)
+  ) %>%
+  ungroup() %>%
+  as.data.frame()%>%
+  arrange(
+    -as.integer(date)
   )
 
 writeLines(

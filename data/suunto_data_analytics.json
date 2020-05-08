@@ -7,7 +7,11 @@
       "kmh": 8.91,
       "mkm": "6:44",
       "kj": 3513,
-      "kcal": 840
+      "kcal": 840,
+      "year": 2020,
+      "week": 19,
+      "dist_weekly": 7.61,
+      "kcal_weekly": 840
     },
     {
       "date": "2020-05-03",
@@ -16,7 +20,11 @@
       "kmh": 8.3,
       "mkm": "7:14",
       "kj": 5246,
-      "kcal": 1254
+      "kcal": 1254,
+      "year": 2020,
+      "week": 18,
+      "dist_weekly": 19.38,
+      "kcal_weekly": 2075
     },
     {
       "date": "2020-05-01",
@@ -25,7 +33,11 @@
       "kmh": 7.78,
       "mkm": "7:43",
       "kj": 3433,
-      "kcal": 821
+      "kcal": 821,
+      "year": 2020,
+      "week": 18,
+      "dist_weekly": 19.38,
+      "kcal_weekly": 2075
     },
     {
       "date": "2020-04-26",
@@ -34,7 +46,11 @@
       "kmh": 7.96,
       "mkm": "7:33",
       "kj": 5292,
-      "kcal": 1265
+      "kcal": 1265,
+      "year": 2020,
+      "week": 17,
+      "dist_weekly": 26.91,
+      "kcal_weekly": 2822
     },
     {
       "date": "2020-04-24",
@@ -43,7 +59,11 @@
       "kmh": 8.79,
       "mkm": "6:50",
       "kj": 3291,
-      "kcal": 787
+      "kcal": 787,
+      "year": 2020,
+      "week": 17,
+      "dist_weekly": 26.91,
+      "kcal_weekly": 2822
     },
     {
       "date": "2020-04-22",
@@ -52,7 +72,11 @@
       "kmh": 8.71,
       "mkm": "6:54",
       "kj": 3220,
-      "kcal": 770
+      "kcal": 770,
+      "year": 2020,
+      "week": 17,
+      "dist_weekly": 26.91,
+      "kcal_weekly": 2822
     },
     {
       "date": "2020-04-17",
@@ -61,7 +85,11 @@
       "kmh": 8.35,
       "mkm": "7:12",
       "kj": 3169,
-      "kcal": 758
+      "kcal": 758,
+      "year": 2020,
+      "week": 16,
+      "dist_weekly": 15.09,
+      "kcal_weekly": 1530
     },
     {
       "date": "2020-04-15",
@@ -70,7 +98,11 @@
       "kmh": 8.44,
       "mkm": "7:07",
       "kj": 3228,
-      "kcal": 772
+      "kcal": 772,
+      "year": 2020,
+      "week": 16,
+      "dist_weekly": 15.09,
+      "kcal_weekly": 1530
     },
     {
       "date": "2020-04-08",
@@ -79,7 +111,11 @@
       "kmh": 7.1,
       "mkm": "8:27",
       "kj": 4350,
-      "kcal": 1040
+      "kcal": 1040,
+      "year": 2020,
+      "week": 15,
+      "dist_weekly": 11.77,
+      "kcal_weekly": 1040
     },
     {
       "date": "2020-04-05",
@@ -88,7 +124,11 @@
       "kmh": 7.65,
       "mkm": "7:51",
       "kj": 3115,
-      "kcal": 744
+      "kcal": 744,
+      "year": 2020,
+      "week": 14,
+      "dist_weekly": 15.24,
+      "kcal_weekly": 1497
     },
     {
       "date": "2020-04-02",
@@ -97,7 +137,11 @@
       "kmh": 7.83,
       "mkm": "7:40",
       "kj": 3148,
-      "kcal": 753
+      "kcal": 753,
+      "year": 2020,
+      "week": 14,
+      "dist_weekly": 15.24,
+      "kcal_weekly": 1497
     },
     {
       "date": "2020-03-28",
@@ -106,7 +150,11 @@
       "kmh": 7.43,
       "mkm": "8:05",
       "kj": 2818,
-      "kcal": 673
+      "kcal": 673,
+      "year": 2020,
+      "week": 13,
+      "dist_weekly": 14.89,
+      "kcal_weekly": 1376
     },
     {
       "date": "2020-03-26",
@@ -115,7 +163,11 @@
       "kmh": 7.4,
       "mkm": "8:07",
       "kj": 2943,
-      "kcal": 703
+      "kcal": 703,
+      "year": 2020,
+      "week": 13,
+      "dist_weekly": 14.89,
+      "kcal_weekly": 1376
     },
     {
       "date": "2018-09-26",
@@ -124,7 +176,11 @@
       "kmh": 8.68,
       "mkm": "6:55",
       "kj": 3245,
-      "kcal": 776
+      "kcal": 776,
+      "year": 2018,
+      "week": 39,
+      "dist_weekly": 14.8,
+      "kcal_weekly": 1579
     },
     {
       "date": "2018-09-24",
@@ -133,7 +189,11 @@
       "kmh": 8.7,
       "mkm": "6:54",
       "kj": 3358,
-      "kcal": 803
+      "kcal": 803,
+      "year": 2018,
+      "week": 39,
+      "dist_weekly": 14.8,
+      "kcal_weekly": 1579
     },
     {
       "date": "2018-09-16",
@@ -142,7 +202,11 @@
       "kmh": 7.9,
       "mkm": "7:36",
       "kj": 5171,
-      "kcal": 1236
+      "kcal": 1236,
+      "year": 2018,
+      "week": 37,
+      "dist_weekly": 19.36,
+      "kcal_weekly": 2054
     },
     {
       "date": "2018-09-14",
@@ -151,7 +215,11 @@
       "kmh": 8.6,
       "mkm": "6:59",
       "kj": 3421,
-      "kcal": 818
+      "kcal": 818,
+      "year": 2018,
+      "week": 37,
+      "dist_weekly": 19.36,
+      "kcal_weekly": 2054
     },
     {
       "date": "2018-09-09",
@@ -160,7 +228,11 @@
       "kmh": 7.59,
       "mkm": "7:55",
       "kj": 3266,
-      "kcal": 781
+      "kcal": 781,
+      "year": 2018,
+      "week": 36,
+      "dist_weekly": 15.17,
+      "kcal_weekly": 1540
     },
     {
       "date": "2018-09-04",
@@ -169,7 +241,11 @@
       "kmh": 7.38,
       "mkm": "8:08",
       "kj": 3174,
-      "kcal": 759
+      "kcal": 759,
+      "year": 2018,
+      "week": 36,
+      "dist_weekly": 15.17,
+      "kcal_weekly": 1540
     },
     {
       "date": "2018-08-12",
@@ -178,7 +254,11 @@
       "kmh": 7.72,
       "mkm": "7:47",
       "kj": 4911,
-      "kcal": 1174
+      "kcal": 1174,
+      "year": 2018,
+      "week": 32,
+      "dist_weekly": 22.81,
+      "kcal_weekly": 2334
     },
     {
       "date": "2018-08-10",
@@ -187,7 +267,11 @@
       "kmh": 7.53,
       "mkm": "7:58",
       "kj": 4853,
-      "kcal": 1160
+      "kcal": 1160,
+      "year": 2018,
+      "week": 32,
+      "dist_weekly": 22.81,
+      "kcal_weekly": 2334
     },
     {
       "date": "2018-08-05",
@@ -196,7 +280,11 @@
       "kmh": 7.5,
       "mkm": "8:01",
       "kj": 3207,
-      "kcal": 767
+      "kcal": 767,
+      "year": 2018,
+      "week": 31,
+      "dist_weekly": 7.52,
+      "kcal_weekly": 767
     },
     {
       "date": "2018-07-22",
@@ -205,7 +293,11 @@
       "kmh": 8.23,
       "mkm": "7:18",
       "kj": 3190,
-      "kcal": 763
+      "kcal": 763,
+      "year": 2018,
+      "week": 29,
+      "dist_weekly": 23.96,
+      "kcal_weekly": 2561
     },
     {
       "date": "2018-07-18",
@@ -214,7 +306,11 @@
       "kmh": 7.54,
       "mkm": "7:58",
       "kj": 4819,
-      "kcal": 1152
+      "kcal": 1152,
+      "year": 2018,
+      "week": 29,
+      "dist_weekly": 23.96,
+      "kcal_weekly": 2561
     },
     {
       "date": "2018-07-16",
@@ -223,7 +319,11 @@
       "kmh": 8.06,
       "mkm": "7:27",
       "kj": 2705,
-      "kcal": 646
+      "kcal": 646,
+      "year": 2018,
+      "week": 29,
+      "dist_weekly": 23.96,
+      "kcal_weekly": 2561
     },
     {
       "date": "2018-07-14",
@@ -232,7 +332,11 @@
       "kmh": 6.99,
       "mkm": "8:36",
       "kj": 3421,
-      "kcal": 818
+      "kcal": 818,
+      "year": 2018,
+      "week": 28,
+      "dist_weekly": 24.89,
+      "kcal_weekly": 1991
     },
     {
       "date": "2018-07-12",
@@ -241,7 +345,11 @@
       "kmh": 6.63,
       "mkm": "9:04",
       "kj": 3094,
-      "kcal": 739
+      "kcal": 739,
+      "year": 2018,
+      "week": 28,
+      "dist_weekly": 24.89,
+      "kcal_weekly": 1991
     },
     {
       "date": "2018-07-10",
@@ -250,7 +358,11 @@
       "kmh": 7.21,
       "mkm": "8:19",
       "kj": 1817,
-      "kcal": 434
+      "kcal": 434,
+      "year": 2018,
+      "week": 28,
+      "dist_weekly": 24.89,
+      "kcal_weekly": 1991
     },
     {
       "date": "2018-07-08",
@@ -259,7 +371,11 @@
       "kmh": 6.79,
       "mkm": "8:51",
       "kj": 2039,
-      "kcal": 487
+      "kcal": 487,
+      "year": 2018,
+      "week": 27,
+      "dist_weekly": 18.84,
+      "kcal_weekly": 1363
     },
     {
       "date": "2018-07-06",
@@ -268,7 +384,11 @@
       "kmh": 6.63,
       "mkm": "9:04",
       "kj": 1884,
-      "kcal": 450
+      "kcal": 450,
+      "year": 2018,
+      "week": 27,
+      "dist_weekly": 18.84,
+      "kcal_weekly": 1363
     },
     {
       "date": "2018-07-04",
@@ -277,7 +397,11 @@
       "kmh": 7.37,
       "mkm": "8:09",
       "kj": 1013,
-      "kcal": 242
+      "kcal": 242,
+      "year": 2018,
+      "week": 27,
+      "dist_weekly": 18.84,
+      "kcal_weekly": 1363
     },
     {
       "date": "2018-07-02",
@@ -286,7 +410,11 @@
       "kmh": 6.69,
       "mkm": "8:59",
       "kj": 770,
-      "kcal": 184
+      "kcal": 184,
+      "year": 2018,
+      "week": 27,
+      "dist_weekly": 18.84,
+      "kcal_weekly": 1363
     },
     {
       "date": "2018-01-28",
@@ -295,7 +423,11 @@
       "kmh": 7.33,
       "mkm": "8:12",
       "kj": 1851,
-      "kcal": 442
+      "kcal": 442,
+      "year": 2018,
+      "week": 4,
+      "dist_weekly": 4.24,
+      "kcal_weekly": 442
     },
     {
       "date": "2018-01-14",
@@ -304,7 +436,11 @@
       "kmh": 7.42,
       "mkm": "8:06",
       "kj": 2382,
-      "kcal": 569
+      "kcal": 569,
+      "year": 2018,
+      "week": 2,
+      "dist_weekly": 5.74,
+      "kcal_weekly": 569
     },
     {
       "date": "2017-04-07",
@@ -313,7 +449,11 @@
       "kmh": 7.11,
       "mkm": "8:27",
       "kj": 1675,
-      "kcal": 400
+      "kcal": 400,
+      "year": 2017,
+      "week": 14,
+      "dist_weekly": 4.32,
+      "kcal_weekly": 400
     },
     {
       "date": "2017-03-16",
@@ -322,7 +462,11 @@
       "kmh": 8.13,
       "mkm": "7:23",
       "kj": 2587,
-      "kcal": 618
+      "kcal": 618,
+      "year": 2017,
+      "week": 11,
+      "dist_weekly": 5.85,
+      "kcal_weekly": 618
     },
     {
       "date": "2017-03-11",
@@ -331,7 +475,11 @@
       "kmh": 8.02,
       "mkm": "7:29",
       "kj": 2625,
-      "kcal": 627
+      "kcal": 627,
+      "year": 2017,
+      "week": 10,
+      "dist_weekly": 11.78,
+      "kcal_weekly": 1253
     },
     {
       "date": "2017-03-06",
@@ -340,7 +488,11 @@
       "kmh": 8.23,
       "mkm": "7:18",
       "kj": 2621,
-      "kcal": 626
+      "kcal": 626,
+      "year": 2017,
+      "week": 10,
+      "dist_weekly": 11.78,
+      "kcal_weekly": 1253
     },
     {
       "date": "2017-03-04",
@@ -349,7 +501,11 @@
       "kmh": 7.56,
       "mkm": "7:56",
       "kj": 2495,
-      "kcal": 596
+      "kcal": 596,
+      "year": 2017,
+      "week": 9,
+      "dist_weekly": 5.76,
+      "kcal_weekly": 596
     },
     {
       "date": "2016-12-17",
@@ -358,7 +514,11 @@
       "kmh": 6.32,
       "mkm": "9:30",
       "kj": 1675,
-      "kcal": 400
+      "kcal": 400,
+      "year": 2016,
+      "week": 51,
+      "dist_weekly": 4.36,
+      "kcal_weekly": 400
     },
     {
       "date": "2016-11-13",
@@ -367,7 +527,11 @@
       "kmh": 7.32,
       "mkm": "8:12",
       "kj": 2269,
-      "kcal": 542
+      "kcal": 542,
+      "year": 2016,
+      "week": 46,
+      "dist_weekly": 5.39,
+      "kcal_weekly": 542
     },
     {
       "date": "2016-10-08",
@@ -376,7 +540,11 @@
       "kmh": 7.6,
       "mkm": "7:54",
       "kj": 2554,
-      "kcal": 610
+      "kcal": 610,
+      "year": 2016,
+      "week": 41,
+      "dist_weekly": 5.86,
+      "kcal_weekly": 610
     },
     {
       "date": "2016-09-18",
@@ -385,7 +553,11 @@
       "kmh": 7.75,
       "mkm": "7:45",
       "kj": 2596,
-      "kcal": 620
+      "kcal": 620,
+      "year": 2016,
+      "week": 38,
+      "dist_weekly": 5.9,
+      "kcal_weekly": 620
     },
     {
       "date": "2016-09-07",
@@ -394,7 +566,11 @@
       "kmh": 8.29,
       "mkm": "7:15",
       "kj": 2684,
-      "kcal": 641
+      "kcal": 641,
+      "year": 2016,
+      "week": 36,
+      "dist_weekly": 5.9,
+      "kcal_weekly": 641
     },
     {
       "date": "2016-08-27",
@@ -403,7 +579,11 @@
       "kmh": 8.14,
       "mkm": "7:23",
       "kj": 2680,
-      "kcal": 640
+      "kcal": 640,
+      "year": 2016,
+      "week": 35,
+      "dist_weekly": 5.93,
+      "kcal_weekly": 640
     },
     {
       "date": "2016-08-19",
@@ -412,7 +592,11 @@
       "kmh": 7.72,
       "mkm": "7:47",
       "kj": 2587,
-      "kcal": 618
+      "kcal": 618,
+      "year": 2016,
+      "week": 34,
+      "dist_weekly": 5.96,
+      "kcal_weekly": 618
     },
     {
       "date": "2015-01-07",
@@ -421,7 +605,11 @@
       "kmh": 7.56,
       "mkm": "7:56",
       "kj": 2495,
-      "kcal": 596
+      "kcal": 596,
+      "year": 2015,
+      "week": 1,
+      "dist_weekly": 5.76,
+      "kcal_weekly": 596
     }
   ]
 }
