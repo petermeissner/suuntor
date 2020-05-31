@@ -118,11 +118,12 @@ writeLines(
 
 
 # add everything to repo
+try({
 system("git add *")
 system("git status")
 system(paste0("git commit -m ", '"update ',as.character(Sys.time()),'"'))
 system("git push")
-
+})
 
 
 
