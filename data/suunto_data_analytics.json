@@ -1,6 +1,19 @@
 {
   "run_data": [
     {
+      "date": "2020-07-30",
+      "distance": 7.06,
+      "duration_min": 46.87,
+      "kmh": 9.04,
+      "mkm": "6:39",
+      "kj": 3241,
+      "kcal": 775,
+      "year": 2020,
+      "week": 31,
+      "dist_weekly": 7.06,
+      "kcal_weekly": 775
+    },
+    {
       "date": "2020-07-24",
       "distance": 11.94,
       "duration_min": 77.25,
