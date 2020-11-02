@@ -1,6 +1,32 @@
 {
   "run_data": [
     {
+      "date": "2020-11-01",
+      "distance": 5.9,
+      "duration_min": 43.09,
+      "kmh": 8.22,
+      "mkm": "7:19",
+      "kj": 2730,
+      "kcal": 652,
+      "year": 2020,
+      "week": 44,
+      "dist_weekly": 5.9,
+      "kcal_weekly": 652
+    },
+    {
+      "date": "2020-10-11",
+      "distance": 5.92,
+      "duration_min": 42.61,
+      "kmh": 8.34,
+      "mkm": "7:12",
+      "kj": 2726,
+      "kcal": 651,
+      "year": 2020,
+      "week": 41,
+      "dist_weekly": 12.05,
+      "kcal_weekly": 1331
+    },
+    {
       "date": "2020-10-07",
       "distance": 6.13,
       "duration_min": 44.14,
@@ -10,8 +36,8 @@
       "kcal": 680,
       "year": 2020,
       "week": 41,
-      "dist_weekly": 6.13,
-      "kcal_weekly": 680
+      "dist_weekly": 12.05,
+      "kcal_weekly": 1331
     },
     {
       "date": "2020-08-24",
