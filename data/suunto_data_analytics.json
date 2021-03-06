@@ -1,6 +1,32 @@
 {
   "run_data": [
     {
+      "date": "2021-03-04",
+      "distance": 6.09,
+      "duration_min": 43.76,
+      "kmh": 8.35,
+      "mkm": "7:12",
+      "kj": 2818,
+      "kcal": 673,
+      "year": 2021,
+      "week": 9,
+      "dist_weekly": 11.98,
+      "kcal_weekly": 1327
+    },
+    {
+      "date": "2021-02-27",
+      "distance": 5.89,
+      "duration_min": 42.25,
+      "kmh": 8.36,
+      "mkm": "7:11",
+      "kj": 2738,
+      "kcal": 654,
+      "year": 2021,
+      "week": 9,
+      "dist_weekly": 11.98,
+      "kcal_weekly": 1327
+    },
+    {
       "date": "2021-02-25",
       "distance": 5.14,
       "duration_min": 39.39,
